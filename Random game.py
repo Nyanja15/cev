@@ -7,7 +7,7 @@ def jugar_juego():
 
     while numero_inicial > 0:
         if turno == 0:
-            print("Turno del jugador")
+            print("Turno del jugador2")
             while True:
                 try:
                     usuario_input = int(input("Introduce un número del 1 al 9: "))
